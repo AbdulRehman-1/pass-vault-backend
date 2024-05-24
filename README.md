@@ -13,7 +13,7 @@ Before running the Pass Vault Backend, make sure you have the following installe
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/pass-vault-backend.git
+   git clone https://github.com/AbdulRehman-1/pass-vault-backend
    ```
 
 2. Install the dependencies:
